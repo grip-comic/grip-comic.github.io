@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Chapter 1 Page 1 Title Appears Here"
+title:  "Chapter 1 Page 1"
 date:   2016-07-09 19:00:00 -0400
 categories: strip grip homepage
 strip-image: ch1pg1.png
 ---
-Chapter 1 page 2 body text is here.
+And here we go.
