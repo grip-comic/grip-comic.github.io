@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 1 Page 2 Title Appears Here"
+date:   2016-07-10 20:00:00 -0400
+categories: strip grip
+strip-image: ch1pg2.png
+---
+Chapter 1 page 2 body text is here.
