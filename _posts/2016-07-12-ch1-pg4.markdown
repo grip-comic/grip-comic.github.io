@@ -1,4 +1,8 @@
 ---
 layout: post
+title:  "Chapter 1 Page 4"
+date:   2016-07-12 20:00:00 -0400
 categories: strip grip
+strip-image: ch1pg4.png
 ---
+still standing.
