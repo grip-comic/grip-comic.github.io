@@ -2,22 +2,30 @@
 layout: default
 ---
 
-<div class="home">
+{% for post in site.categories.homepage %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
+    <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+  </header>
+  {% if post.strip-image %}
+  <div class="strip-container">
+    <img src="/strip-img/{{post.strip-image}}" class="strip-image">
+  </div>
+  {% endif %}
+  <div class="PageNavigation">
+    {% if post.previous.url %}
+      <a class="prev" href="{{post.previous.url}}">&laquo; {{post.previous.title}}</a>
+    {% endif %}
+    {% if post.next.url %}
+      <a class="next" href="{{post.next.url}}">{{post.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+  <br>
+  <div class="post-content" itemprop="articleBody">
+    {{ post.content }}
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</article>
+{% endfor %}
