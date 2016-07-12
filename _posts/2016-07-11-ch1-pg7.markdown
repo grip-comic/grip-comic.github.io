@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 1 Page 7"
+date:   2016-07-11 20:00:04 -0400
+categories: strip grip
+strip-image: ch1pg7.png
+---
+seasons!
