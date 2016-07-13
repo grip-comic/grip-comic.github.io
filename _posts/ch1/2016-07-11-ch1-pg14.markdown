@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 1 Page 14"
+date:   2016-07-11 20:00:11 -0400
+categories: strip grip
+strip-image: ch1pg14.png
+---
+thirsty boy 
