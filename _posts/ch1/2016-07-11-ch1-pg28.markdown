@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 1 Page 28"
+date:   2016-07-11 20:00:25 -0400
+categories: strip grip
+strip-image: ch1pg28.png
+---
+headache

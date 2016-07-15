@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:13 -0400
 categories: strip grip
 strip-image: ch1pg16.png
 ---
-MORE MORE MORE 
+WHOO-RAW

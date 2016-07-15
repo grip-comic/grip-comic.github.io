@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:20 -0400
 categories: strip grip
 strip-image: ch1pg23.png
 ---
-swing and a miss
+"LET'S DANCE"

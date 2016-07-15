@@ -5,4 +5,4 @@ date:   2016-07-09 19:00:00 -0400
 categories: strip grip homepage
 strip-image: ch1pg1.png
 ---
-And here we go.
+Welcome

@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:01 -0400
 categories: strip grip
 strip-image: ch1pg4.png
 ---
-still standing.
+he's so moody.

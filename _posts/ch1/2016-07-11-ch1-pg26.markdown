@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:23 -0400
 categories: strip grip
 strip-image: ch1pg26.png
 ---
-Magic sucks 
+And so it begins 

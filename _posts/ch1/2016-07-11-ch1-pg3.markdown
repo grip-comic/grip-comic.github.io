@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:00 -0400
 categories: strip grip
 strip-image: ch1pg3.png
 ---
-he's so moody.
+and here we go 

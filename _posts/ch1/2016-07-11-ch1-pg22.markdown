@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:19 -0400
 categories: strip grip
 strip-image: ch1pg22.png
 ---
- "LET'S DANCE"
+ First Blood

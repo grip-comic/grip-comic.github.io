@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:15 -0400
 categories: strip grip
 strip-image: ch1pg18.png
 ---
-rules is rules 
+ "the weak don't decide" 

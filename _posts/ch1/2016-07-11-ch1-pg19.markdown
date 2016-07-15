@@ -5,4 +5,4 @@ date:   2016-07-11 20:00:16 -0400
 categories: strip grip
 strip-image: ch1pg19.png
 ---
-GRRRRRR
+rules is rules
