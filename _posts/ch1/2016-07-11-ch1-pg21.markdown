@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 1 Page 21"
+date:   2016-07-11 20:00:18 -0400
+categories: strip grip
+strip-image: ch1pg21.png
+---
+First Blood 

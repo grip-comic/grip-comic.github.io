@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 1 Page 24"
+date:   2016-07-11 20:00:21 -0400
+categories: strip grip
+strip-image: ch1pg24.png
+---
+ Skill shot 
