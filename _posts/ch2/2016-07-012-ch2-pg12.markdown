@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 2 Page 12"
+date:   2016-07-12 19:00:12 -0400
+categories: strip grip
+strip-image: ch2pg12.png
+---
+gonna get chu  

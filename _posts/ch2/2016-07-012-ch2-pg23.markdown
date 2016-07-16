@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 2 Page 23"
+date:   2016-07-12 19:00:22 -0400
+categories: strip grip
+strip-image: ch2pg23.png
+---
+double up, fistacuffs   

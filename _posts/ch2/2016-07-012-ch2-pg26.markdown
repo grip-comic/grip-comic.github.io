@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 2 Page 26"
+date:   2016-07-12 19:00:25 -0400
+categories: strip grip
+strip-image: ch2pg26.png
+---
+twisted squad   

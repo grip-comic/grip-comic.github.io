@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chapter 2 Page 8"
-date:   2016-07-12 19:00:07 -0400
+date:   2016-07-12 19:00:08 -0400
 categories: strip grip
 strip-image: ch2pg8.png
 ---

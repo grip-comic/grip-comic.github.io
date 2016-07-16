@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 2 Page 27"
+date:   2016-07-12 19:00:26 -0400
+categories: strip grip
+strip-image: ch2pg27.png
+---
+smash and grab  

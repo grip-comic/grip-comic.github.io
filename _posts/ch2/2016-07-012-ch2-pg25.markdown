@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 2 Page 25"
+date:   2016-07-12 19:00:24 -0400
+categories: strip grip
+strip-image: ch2pg25.png
+---
+unquenchable 
