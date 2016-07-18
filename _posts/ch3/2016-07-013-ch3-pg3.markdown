@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 3 Page 3"
+date:   2016-07-13 19:00:03 -0400
+categories: strip grip
+strip-image: ch3pg3.png
+---
+Arguably the best time.   
