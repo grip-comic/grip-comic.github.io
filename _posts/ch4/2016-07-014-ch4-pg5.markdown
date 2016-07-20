@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 4 Page 5"
+date:   2016-07-14 19:00:05 -0400
+categories: strip grip
+strip-image: ch4pg5.png
+---
+to be fair that's a safe bet 

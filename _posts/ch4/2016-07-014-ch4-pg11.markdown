@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 4 Page 11"
+date:   2016-07-14 19:00:11 -0400
+categories: strip grip
+strip-image: ch4pg11.png
+---
+the debate is up and running 

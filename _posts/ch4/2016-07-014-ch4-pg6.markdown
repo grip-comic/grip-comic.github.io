@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 4 Page 6"
+date:   2016-07-14 19:00:06 -0400
+categories: strip grip
+strip-image: ch4pg6.png
+---
+and pain is Queen 

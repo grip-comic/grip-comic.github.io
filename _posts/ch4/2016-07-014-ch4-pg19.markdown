@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 4 Page 19"
+date:   2016-07-14 19:00:19 -0400
+categories: strip grip
+strip-image: ch4pg19.png
+---
+thought flex 

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 4 Page 8"
+date:   2016-07-14 19:00:08 -0400
+categories: strip grip
+strip-image: ch4pg8.png
+---
+confident goblin   
