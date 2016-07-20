@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 32"
+date:   2016-07-15 19:00:32 -0400
+categories: strip grip
+strip-image: ch5pg32.png
+---
+FLASHHHHBACKKKKKKKKKKK  

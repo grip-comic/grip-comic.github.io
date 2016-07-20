@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 24"
+date:   2016-07-15 19:00:24 -0400
+categories: strip grip
+strip-image: ch5pg24.png
+---
+DING DING ROUND 2  

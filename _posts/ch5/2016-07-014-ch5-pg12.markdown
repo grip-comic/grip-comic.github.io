@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 12"
+date:   2016-07-15 19:00:12 -0400
+categories: strip grip
+strip-image: ch5pg12.png
+---
+Bend and rip this fool apart.   

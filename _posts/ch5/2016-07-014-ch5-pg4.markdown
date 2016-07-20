@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 4"
+date:   2016-07-15 19:00:04 -0400
+categories: strip grip
+strip-image: ch5pg4.png
+---
+Fan service   

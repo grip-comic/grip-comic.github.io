@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 7"
+date:   2016-07-15 19:00:07 -0400
+categories: strip grip
+strip-image: ch5pg7.png
+---
+From the hip into the jaws of fate...

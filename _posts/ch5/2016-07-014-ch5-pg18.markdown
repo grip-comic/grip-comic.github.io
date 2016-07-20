@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 18"
+date:   2016-07-15 19:00:18 -0400
+categories: strip grip
+strip-image: ch5pg18.png
+---
+bargain's end   

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 13"
+date:   2016-07-15 19:00:13 -0400
+categories: strip grip
+strip-image: ch5pg13.png
+---
+Burn to ash all who feel even a touch of thought to heal.    

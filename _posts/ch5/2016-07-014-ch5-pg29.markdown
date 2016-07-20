@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 29"
+date:   2016-07-15 19:00:29 -0400
+categories: strip grip
+strip-image: ch5pg29.png
+---
+spooky upset    

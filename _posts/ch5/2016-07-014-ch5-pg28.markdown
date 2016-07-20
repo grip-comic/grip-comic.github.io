@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 28"
+date:   2016-07-15 19:00:28 -0400
+categories: strip grip
+strip-image: ch5pg28.png
+---
+RUN RUN RUN AWAY  

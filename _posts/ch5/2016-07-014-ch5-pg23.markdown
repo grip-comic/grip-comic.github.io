@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 23"
+date:   2016-07-15 19:00:23 -0400
+categories: strip grip
+strip-image: ch5pg23.png
+---
+AND LIQUIFY WITH GRIP ON PRICE!  

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 5 Page 11"
+date:   2016-07-15 19:00:11 -0400
+categories: strip grip
+strip-image: ch5pg11.png
+---
+malice malice of the heart...  
