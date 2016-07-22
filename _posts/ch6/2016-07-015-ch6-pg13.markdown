@@ -3,6 +3,6 @@ layout: post
 title:  "Chapter 6 Page 13"
 date:   2016-07-16 19:00:13 -0400
 categories: strip grip
-strip-image: ch5pg13.png
+strip-image: ch6pg13.png
 ---
 UNTIL WEIGHT OF HEAD SNAPS THE NECK.  
