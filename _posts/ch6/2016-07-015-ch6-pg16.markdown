@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chapter 6 Page 16"
-date:   2016-07-15 19:00:16 -0400
+date:   2016-07-16 19:00:16 -0400
 categories: strip grip
 strip-image: ch6pg16.png
 ---

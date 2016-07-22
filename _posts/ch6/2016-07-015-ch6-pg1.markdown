@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Chapter 6 Page 1"
-date:   2016-07-15 19:00:01 -0400
+date:   2016-07-16 19:00:01 -0400
 categories: strip grip
 strip-image: ch6pg1.png
 ---
-"The Fall" 
+"The Fall"
