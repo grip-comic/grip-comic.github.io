@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 6 Page 15"
+date:   2016-07-15 19:00:15 -0400
+categories: strip grip
+strip-image: ch6pg15.png
+---
+OPEN HEART AND ALWAYS LIE.   

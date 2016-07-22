@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 6 Page 2"
+date:   2016-07-15 19:00:02 -0400
+categories: strip grip
+strip-image: ch6pg2.png
+---
+throngs of innocent   

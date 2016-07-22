@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 6 Page 7"
+date:   2016-07-15 19:00:07 -0400
+categories: strip grip
+strip-image: ch6pg7.png
+---
+dream drawin'  
