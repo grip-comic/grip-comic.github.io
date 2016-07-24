@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 13"
+date:   2016-07-17 19:00:13 -0400
+categories: strip grip
+strip-image: ch7pg13.png
+---
+Jim I don't believe this, a weapon destruction; that's gotta put Red ahead- 

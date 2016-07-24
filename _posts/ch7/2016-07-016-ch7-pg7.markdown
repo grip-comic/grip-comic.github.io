@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 7"
+date:   2016-07-17 19:00:07 -0400
+categories: strip grip
+strip-image: ch7pg7.png
+---
+Ooooo swing and a miss from the blue corner-

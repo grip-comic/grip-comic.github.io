@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 16"
+date:   2016-07-17 19:00:16 -0400
+categories: strip grip
+strip-image: ch7pg16.png
+---
+Tim, Red's got a point, what's blue's plan here?

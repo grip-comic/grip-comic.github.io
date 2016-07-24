@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 11"
+date:   2016-07-17 19:00:11 -0400
+categories: strip grip
+strip-image: ch7pg11.png
+---
+As I suspected Tim, no effect, Red is actually using this time-

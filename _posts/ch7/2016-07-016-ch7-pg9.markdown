@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 9"
+date:   2016-07-17 19:00:09 -0400
+categories: strip grip
+strip-image: ch7pg9.png
+---
+Doesnt look like it Tim, now Blue's got Red on the ropes!

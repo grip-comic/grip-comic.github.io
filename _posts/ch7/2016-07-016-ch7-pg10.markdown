@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 10"
+date:   2016-07-17 19:00:10 -0400
+categories: strip grip
+strip-image: ch7pg10.png
+---
+Quite the monologue Jim, but will it have the desired effect?   

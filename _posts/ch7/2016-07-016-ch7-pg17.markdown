@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 17"
+date:   2016-07-17 19:00:17 -0400
+categories: strip grip
+strip-image: ch7pg17.png
+---
+Blue's no sucker Jim, if I know blue this is some sort of set up-

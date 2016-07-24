@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 5"
+date:   2016-07-17 19:00:05 -0400
+categories: strip grip
+strip-image: ch7pg5.png
+---
+so rude. 

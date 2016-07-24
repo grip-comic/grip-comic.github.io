@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 20"
+date:   2016-07-17 19:00:20 -0400
+categories: strip grip
+strip-image: ch7pg20.png
+---
+A taunt set up from Red, the drum roll is burning-

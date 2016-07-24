@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 7 Page 6"
+date:   2016-07-17 19:00:06 -0400
+categories: strip grip
+strip-image: ch7pg6.png
+---
+Crazy Kid vs Punch Imp 
