@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 9 Page 7"
+date:   2016-07-19 19:00:07 -0400
+categories: strip grip
+strip-image: ch9pg7.png
+---
+Nightmare boy wakes up.  
