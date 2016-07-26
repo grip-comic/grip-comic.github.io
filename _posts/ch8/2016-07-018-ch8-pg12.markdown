@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 12"
-date:   2016-07-18 19:00:12 -0400
-categories: strip grip
-strip-image: ch8pg12.png
----
-  Warp wasp

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 61"
-date:   2016-07-18 19:00:61 -0400
-categories: strip grip
-strip-image: ch8pg61.png
----
-But if taken bit by bit-  

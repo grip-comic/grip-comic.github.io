@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 36"
-date:   2016-07-18 19:00:36 -0400
-categories: strip grip
-strip-image: ch8pg36.png
----
-crack your jaw-  

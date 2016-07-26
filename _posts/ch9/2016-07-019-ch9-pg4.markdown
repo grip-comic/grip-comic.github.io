@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 9 Page 4"
-date:   2016-07-19 19:00:04 -0400
-categories: strip grip
-strip-image: ch9pg4.png
----
-Whispers and rubble   

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 68"
-date:   2016-07-18 19:00:68 -0400
-categories: strip grip
-strip-image: ch8pg68.png
----
-All to be known is what you have seen, grit your teeth boy...keep your Grip mean.   

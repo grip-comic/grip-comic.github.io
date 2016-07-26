@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 43"
-date:   2016-07-18 19:00:43 -0400
-categories: strip grip
-strip-image: ch8pg43.png
----
-Fair is fair  

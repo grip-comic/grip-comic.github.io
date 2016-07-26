@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 46"
-date:   2016-07-18 19:00:46 -0400
-categories: strip grip
-strip-image: ch8pg46.png
----
-FINAL FORM   

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 67"
-date:   2016-07-18 19:00:67 -0400
-categories: strip grip
-strip-image: ch8pg67.png
----
-Will you dive into the hate? Will you grapple your toxic fate?  

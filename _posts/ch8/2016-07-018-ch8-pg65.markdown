@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 65"
-date:   2016-07-18 19:00:65 -0400
-categories: strip grip
-strip-image: ch8pg65.png
----
-For in the end the agony, shall birth something grand, unlocked by key.  

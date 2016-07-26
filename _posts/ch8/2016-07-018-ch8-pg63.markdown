@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 63"
-date:   2016-07-18 19:00:63 -0400
-categories: strip grip
-strip-image: ch8pg63.png
----
-So grit your teeth and chew it well-  

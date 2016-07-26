@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 19"
-date:   2016-07-18 19:00:19 -0400
-categories: strip grip
-strip-image: ch5pg19.png
----
-So ends the tale of thirsty boy   

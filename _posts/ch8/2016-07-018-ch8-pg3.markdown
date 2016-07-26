@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Chapter 8 Page 3"
-date:   2016-07-18 19:00:03 -0400
-categories: strip grip
-strip-image: ch8pg3.png
----
-Ego slumber   
