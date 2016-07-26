@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 8 Page 47"
+date:   2016-07-18 19:00:47 -0400
+categories: strip grip
+strip-image: ch8pg47.png
+---
+Reality Climb   

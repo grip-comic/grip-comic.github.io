@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 8 Page 54"
+date:   2016-07-18 19:00:54 -0400
+categories: strip grip
+strip-image: ch8pg54.png
+---
+Fate's fall.  
