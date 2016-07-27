@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Chapter 8 Page 1"
 date:   2016-07-18 19:00:01 -0400
