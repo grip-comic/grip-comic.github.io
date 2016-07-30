@@ -11,7 +11,7 @@ email: wyattleegarland@gmail.com
 description: > 
   A ruined sentry. A thirsty goblin. A spoiled wasp. What kind of world will be created with the union of their fates? Unravel the tale of these 3 through the tattered landscape of Wyatt Garland's GRIP.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://grip-comic.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 
 # Build settings
